@@ -8,5 +8,5 @@ The two text files should reside in the same directory. Then select "Run All"
 
 
 OUTPUTS:
-Ligand Prep Files, Protien Prep Files, and Docking Grid File  
+Ligand Prep Files, Protein Prep Files, and Docking Grid File  
 
