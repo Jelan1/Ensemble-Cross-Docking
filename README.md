@@ -1,5 +1,5 @@
 # Ensemble Cross-Docking
-A pip-only Jupyter notebook, runnable end-to-end in Colab.
+A Jupyter notebook with only PyPi dependacies, runnable end-to-end in Colab.
 
 Steps To Run:
 The two text files should reside in the same directory. Then, select "Run All"
