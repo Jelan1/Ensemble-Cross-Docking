@@ -7,6 +7,6 @@ The two text files should reside in the same directory as notebook. Then, select
 *If running on personal machine, it may be possible that some pip installs are missing because the google COLAB enviroment has more default packages than vanilla. However, these are usually for ML use-cases (Keras), so I don't think it will happen  
 
 
-OUTPUTS:
+OUTPUT:
 Ligand Prep Files, Protein Prep Files, and Docking Grid File  
 
