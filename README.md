@@ -1,4 +1,4 @@
-# Ensemble_Cross_Docking-
+# Ensemble Cross-Docking
 A pip-only Jupyter notebook, runnable end-to-end in Colab.
 
 Steps to Run:
