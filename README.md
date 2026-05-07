@@ -1,2 +1,12 @@
 # Ensemble_Cross_Docking-
 A pip-only Jupyter notebook, runnable end-to-end in Colab.
+
+Steps to Run:
+The two text files should reside in the same directory. Then select "Run All"
+
+*If running on personal machine, it may be possible some pip installs are still needed because the COLAB enviroment includes more packages than vanilla. However, these are usually for ML use-cases like (Keras), so I don't think it will happen  
+
+
+OUTPUTS:
+Ligand Prep Files, Protien Prep Files, and Docking Grid File  
+
